@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/Chicago,_IL-open_to_work-2ea043?style=for-the-badge&labelColor=0d1117">
+  <img alt="Location" src="https://img.shields.io/badge/Chicago_metro-open_to_work-2ea043?style=for-the-badge&labelColor=0d1117">
   <img alt="Focus" src="https://img.shields.io/badge/focus-agent_systems-d4a574?style=for-the-badge&labelColor=0d1117">
   <img alt="Since" src="https://img.shields.io/badge/AI--assisted_dev-daily_since_2024-6E56CF?style=for-the-badge&labelColor=0d1117">
 </p>
 
 ---
 
-I spent three years on a production line watching skilled people do work a computer should be doing. So I built the computer's half. That instinct — **notice the repetitive thing, then remove it** — is the whole job, whether the fix is a hotkey macro or a fleet of agents.
+I spent years on a production line watching skilled people do work a computer should be doing. So I built the computer's half. That instinct — **notice the repetitive thing, then remove it** — is the whole job, whether the fix is a hotkey macro or a fleet of agents.
 
 Now I build agent systems and the evaluation harnesses that prove they actually work.
 
@@ -49,7 +49,7 @@ Sub-agent orchestration, MCP tool integration, file-backed shared state, schedul
 <td width="50%" valign="top">
 
 ### 📊 LLM eval harness
-**Python · eval-driven development**
+**Node.js · eval-driven development**
 
 Scores model outputs against a **deterministic oracle** — a hand-written game engine used as a known-correct answer key — plus an LLM-as-judge pattern for outputs with no clean ground truth.
 
@@ -120,7 +120,7 @@ Low-latency rendering, no interference with the host application. Built to learn
 
 Audio engineering → manufacturing → automation engineering. Not the standard path, and I'd argue that's the point.
 
-Signal processing, latency budgets, and "it has to work live, right now, in front of people" turn out to be the same constraints as real-time systems work. Three years of high-volume production taught me to spot a bottleneck before anyone files a ticket about it.
+Signal processing, latency budgets, and "it has to work live, right now, in front of people" turn out to be the same constraints as real-time systems work. Years of high-volume production taught me to spot a bottleneck before anyone files a ticket about it.
 
 Currently independent: agent systems, eval harnesses, API integrations, and a technical advisory role with an early-stage product team.
 
