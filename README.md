@@ -131,5 +131,5 @@ Currently independent: agent systems, eval harnesses, API integrations, and a te
 ---
 
 <p align="center">
-  <sub>Most of my repos are private — client work and things still in progress.<br>Happy to walk through code on a call.</sub>
+  <sub>Most of my repos are private — client work and things still in progress.<br>Happy to walk through code on a call.<br><br>Tempo and key data by <a href="https://getsongbpm.com">GetSongBPM</a>.</sub>
 </p>
