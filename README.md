@@ -10,6 +10,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/dashboard-light.svg">
-    <img alt="Contribution heatmap for the last year across public and private repos. Then how I work, as a signal that gets cleaner at each stage. Notice: find the repeated manual work. Build: the smallest working fix. Measure: prove it against a baseline. Ship: someone else can run it. Stack: Python, TypeScript, Node.js, AutoHotkey, MCP, local LLMs, Claude Code, Linux, Docker, Git, Zapier, Make." src="assets/dashboard-dark.svg" width="680">
+    <img alt="Two design principles. Fail closed: nothing leaves without my verdict. Local first: models run on my own hardware. Then my path: audio engineering, manufacturing, automation and AI. Stack: Python, TypeScript, Node.js, AutoHotkey, MCP, local LLMs, Claude Code, Linux, Docker, Git, Zapier, Make." src="assets/dashboard-dark.svg" width="680">
   </picture>
 </p>
