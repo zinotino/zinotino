@@ -1,15 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img alt="Applied AI and automation engineer, Chicago metro, open to full-time roles. A noisy signal passes four stages (notice, build, measure, ship) and comes out clean." src="assets/header-dark.svg" width="100%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/dashboard-light.svg">
-    <img alt="Two design principles. Fail closed: nothing leaves without my verdict. Local first: models run on my own hardware. Then my path: audio engineering, manufacturing, automation and AI. Stack: Python, TypeScript, Node.js, AutoHotkey, MCP, local LLMs, Claude Code, Linux, Docker, Git, Zapier, Make." src="assets/dashboard-dark.svg" width="680">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+    <img alt="Applied AI and automation engineer. Agent systems, LLM evaluation, process automation. Chicago metro, open to full-time roles, onsite, hybrid or remote. A noisy signal passes four stages and comes out clean. Notice: workflow profiling, bottleneck hunting, repeat-task audits, shop-floor context. Build: agents and tool use, MCP servers, local LLMs, scripts and macros. Measure: eval harnesses, LLM-as-judge, hand-timed baselines, deterministic checks before judges. Ship: unit tests, SOPs and onboarding, sandboxed runs, a human review gate. Results: 3 to 5 times faster than by hand at 99.9 percent accuracy; about 2,800 unit tests in a local agent system; zero-token deterministic checks run before any judge; models run on one 16 GB GPU. Path: audio engineering, manufacturing, automation and AI. Stack: Python, TypeScript, Node.js, MCP, Claude Code, local LLMs, AutoHotkey, Zapier, Make, Linux, Docker, Git." src="assets/profile-dark.svg" width="100%">
   </picture>
 </p>
